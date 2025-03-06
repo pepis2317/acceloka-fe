@@ -11,6 +11,12 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        lightNavy: "#262848",
+        darkNavy: "#16182F",
+        darkerNavy: "#111326",
+        lighterNavy :"#343B5B",
+        blurryColor: "#20223C",
+        blurryBorder: "#ADA1E4"
       },
     },
   },
